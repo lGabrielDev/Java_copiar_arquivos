@@ -1,5 +1,5 @@
 
-# Copiando um arquivo utilizando Java
+# Copiando arquivos utilizando Java
 
 ## Objetivo<br>
 Copiar um arquivo utilizando linguagem Java.
